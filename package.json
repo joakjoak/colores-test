@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/joakjoak/colores-test/issues"
   },
-  "homepage": "https://github.com/joakjoak/colores-test#readme"
+  "homepage": "https://github.com/joakjoak/colores-test#readme",
+  "devDependencies": {
+    "webpack": "^5.78.0",
+    "webpack-cli": "^5.0.1"
+  }
 }
